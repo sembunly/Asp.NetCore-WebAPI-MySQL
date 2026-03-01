@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Desktop/FootwearInventory/Backend-Inventory.Api/FootwearInventory.Api.csproj": {}
+    "/Users/macbook/Desktop/Backend-Inventory.Api/FootwearInventory.Api.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Desktop/FootwearInventory/Backend-Inventory.Api/FootwearInventory.Api.csproj": {
+    "/Users/macbook/Desktop/Backend-Inventory.Api/FootwearInventory.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/FootwearInventory/Backend-Inventory.Api/FootwearInventory.Api.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/Backend-Inventory.Api/FootwearInventory.Api.csproj",
         "projectName": "FootwearInventory.Api",
-        "projectPath": "/Users/macbook/Desktop/FootwearInventory/Backend-Inventory.Api/FootwearInventory.Api.csproj",
+        "projectPath": "/Users/macbook/Desktop/Backend-Inventory.Api/FootwearInventory.Api.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/FootwearInventory/Backend-Inventory.Api/obj/",
+        "outputPath": "/Users/macbook/Desktop/Backend-Inventory.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"

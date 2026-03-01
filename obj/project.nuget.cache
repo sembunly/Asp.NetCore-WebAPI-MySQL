@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kegi9amszxs=",
+  "dgSpecHash": "u3WjAmZ3a+U=",
   "success": true,
-  "projectFilePath": "/Users/macbook/Desktop/FootwearInventory/Backend-Inventory.Api/FootwearInventory.Api.csproj",
+  "projectFilePath": "/Users/macbook/Desktop/Backend-Inventory.Api/FootwearInventory.Api.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
